@@ -1,4 +1,4 @@
-# CHANGE LOG LEVE AT RUNTIME
+# CHANGE LOG LEVEL AT RUNTIME
 
 An example of how to change the log level at run time by using Spring Boot & Actuactor
 
